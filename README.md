@@ -109,6 +109,7 @@ add other awesome Kurds, including you!
 - [Zardasht Rwandzi](https://www.linkedin.com/in/zardasht-rwandzi-86a883217)
 - [Zhino](https://github.com/zhino97)
 - [Zhir Taha](https://github.com/zhirtaha)
+- [Zanyar Jalal](https://github.com/zanyar3): .NET, .NET Core, c#, Vyejs, React, MS SQL Server
 
 ## UI/UX
 
